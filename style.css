@@ -213,7 +213,7 @@ header {
 }
 
 #about {
-    background-image: url(/assets/hero.jpg);
+    background-image: url(assets/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -265,7 +265,7 @@ header {
 }
 
 #services {
-    background-image: url(/assets/hero.jpg);
+    background-image: url(assets/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
